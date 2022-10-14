@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.9fac499d.js";const r='{"title":"","description":"","frontmatter":{},"relativePath":"Github/index.md","lastUpdated":1665715772506}',a={};a.render=function(r,a,d,i,o,n){return t(),e("div")};export default a;export{r as __pageData};
